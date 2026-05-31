@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "racoon-yencatx.json"
+  ],
+  "homeserver_url": "https://chat.endzeitsyndikat.de"
+}
