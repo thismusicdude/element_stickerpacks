@@ -2,7 +2,8 @@
   "packs": [
     "racoon-yencatx.json",
     "the_feels.json",
-    "dancing_animals.json"
+    "dancing_animals.json",
+    "miau.json"
   ],
   "homeserver_url": "https://chat.endzeitsyndikat.de"
 }
